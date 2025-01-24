@@ -2,6 +2,8 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/andrejhucko/)
 
+⚠ Currently Under Construction. Thank you for your patience!
+
 <!--
 **Salmon42/Salmon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
