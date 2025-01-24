@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 id="top" align="center">Hi there 👋</h2>
 
 [LinkedIn Profile](https://www.linkedin.com/in/andrejhucko/)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-<a>
+<a href="#top">
 	<img 
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
 		alt="C Language" width="32" height="32"
