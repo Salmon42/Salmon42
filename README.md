@@ -1,8 +1,14 @@
 <h2 align="center">Hi there 👋</h2>
 
-[LinkedIn Profile](https://www.linkedin.com/in/andrejhucko/)
+<p align="center">⚠ Currently under construction. Thank you for your patience!</p>
 
-⚠ Currently Under Construction. Thank you for your patience!
+---
+
+* [LinkedIn Profile](https://www.linkedin.com/in/andrejhucko/)
+
+---
+
+
 
 <!--
 **Salmon42/Salmon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +32,8 @@ Here are some ideas to get you started:
 		alt="C Language" width="32" height="32"
 	/>
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+<a href="#">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
 	alt="Vue.js" width="32" height="32"/>
 </a>
 </p>
