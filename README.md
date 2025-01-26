@@ -6,17 +6,17 @@
 
 <h4>My Developer Socials / Profiles</h4>
 <p>
-	<a href="https://www.linkedin.com/in/andrejhucko/">
+	<a href="https://www.linkedin.com/in/andrejhucko/" target="_blank" rel="noreferrer">
 		<img src="./.metadata/linkedin.svg"
 			alt="LinkedIn" width="80px" height="64px"
 		/>
 	</a>
-	<a href="https://www.npmjs.com/settings/salmon42/packages">
+	<a href="https://www.npmjs.com/settings/salmon42/packages" target="_blank" rel="noreferrer">
 		<img src="./.metadata/npm.svg"
 			alt="npm.js" width="80px" height="64px"
 		/>
 	</a>
-	<a href="https://stackoverflow.com/users/13094092">
+	<a href="https://stackoverflow.com/users/13094092" target="_blank" rel="noreferrer">
 		<img src="./.metadata/stackoverflow.svg" 
 			alt="StackOverflow" width="80px" height="64px"
 		/>
