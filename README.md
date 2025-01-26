@@ -1,5 +1,10 @@
 <h2 align="center">Hi 👋, I'm Andrej</h2>
 <h3 align="center">An enthusiastic Web & Application Developer from Slovakia</h3>
+<h4 align="center">
+	<a href="https://github.com/Salmon42/Salmon42/blob/master/cv/cv_hucko_andrej_en.pdf">
+		📃 My CV 🔗
+	</a>
+</h4>
 
 ---
 
