@@ -1,7 +1,13 @@
 <h2 align="center">Hi 👋, I'm Andrej</h2>
 <h3 align="center">An enthusiastic Web & Application Developer from Slovakia</h3>
-<h4 align="center"><a href="https://github.com/Salmon42/Salmon42/blob/master/cv/hucko_andrej_cv.pdf">📃 My CV</a></h4>
-<h4 align="center"><a href="https://github.com/Salmon42/Salmon42/blob/master/cv/hucko_andrej_letter.pdf">📧 About Me</a></h4>
+<h4 align="center">
+	<a href="https://github.com/Salmon42/Salmon42/blob/master/cv/hucko_andrej_cv.pdf">📃 My CV</a>
+	<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Salmon42/Salmon42/refs/heads/master/cv/hucko_andrej_cv.pdf">(PDF Link)</a>
+</h4>
+<h4 align="center">
+	<a href="https://github.com/Salmon42/Salmon42/blob/master/cv/hucko_andrej_letter.pdf">📧 About Me</a>
+	<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Salmon42/Salmon42/refs/heads/master/cv/hucko_andrej_letter.pdf">(PDF Link)</a>
+</h4>
 
 ---
 
