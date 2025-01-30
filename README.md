@@ -19,7 +19,7 @@
 			alt="LinkedIn" width="80px" height="64px"
 		/>
 	</a>
-	<a href="https://www.npmjs.com/settings/salmon42/packages" target="_blank" rel="noreferrer">
+	<a href="https://www.npmjs.com/~salmon42" target="_blank" rel="noreferrer">
 		<img src="./.metadata/npm.svg"
 			alt="npm.js" width="80px" height="64px"
 		/>
